@@ -11,8 +11,8 @@ Los **principios de física de fábricas** son un conjunto de conceptos y leyes 
 
 A continuación, se muestran textos compartidos por el docente del módulo 2:
 
-Artículo científico sobre la Ley de Little: [[Littles-Law-50-Years-Later.pdf]]
-Ley de Little: [[Littles Law-Published.pdf]]
+Artículo científico sobre la Ley de Little: ![[Littles-Law-50-Years-Later.pdf]]
+Ley de Little: ![[Littles Law-Published.pdf]]
 
 **CONTROL DE FLUJO**
 
@@ -51,23 +51,25 @@ Se revisó por medio del programa Publish or Perish. Los autores destacados de P
 
 El orden de los libros corresponde al orden de los autores mencionados en la anterior sección.  
 
-1. Factory physics (https://books.google.com.bo/books?hl=en&lr=&id=TfcWAAAAQBAJ&oi=fnd&pg=PP2&dq=factory+physics&ots=w0WLQ7j3gI&sig=fI5GAZjTuTkfiDJwdmXbGL3w4Ak&redir_esc=y#v=onepage&q=factory%20physics&f=false)
+1. Factory physics (https://books.google.com.bo/books?hl=en&lr=&id=TfcWAAAAQBAJ&oi=fnd&pg=PP2&dq=factory+physics&ots=w0WLQ7j3gI&sig=fI5GAZjTuTkfiDJwdmXbGL3w4Ak&redir_esc=y#v=onepage&q=factory%20physics&f=false)![[FACTORY PHYSICS BOOK.jpg]]
 2. Inventory management and production planning and scheduling (https://www.academia.edu/28953988/Inventory_management_and_production_planning_and_scheduling)
+![[INVENTORY MANAGEMENT.jpg]]
 3. Production planning by mixed integer programming. (https://link.springer.com/chapter/10.1007/0-387-33477-7_15)
 
+![[PRODUCTION PLANNING.jpg]]
 
 **Al menos un artículo científico que hable del tema
 
 Se revisó diferentes artículos científicos sobre el tema, los cuales muestran diferentes técnicas para la planificación de la producción, a continuación se adjunta los artículos y enlaces correspondientes:
 
 1. Models for production planning under uncertainty: A review. J Mula, R Poler, JP García-Sabater, FC Lario (2006). 
-[[Models for production planning under uncertainty.pdf]]
+![[Models for production planning under uncertainty.pdf]]
 
 2. Evaluación de Sistemas para la Planificación y Control de la Producción/[title][title language= en] Evaluation of Production Planning and Control Systems. J Mula, R Poler, JP García (2006)
 https://www.scielo.cl/scielo.php?pid=s0718-07642006000100004&script=sci_arttext
 
 3. Planificación, programación y control de la producción. E Rodríguez (2010)
-[[PLANIFICACIÓN, PROGRAMACIÓN Y CONTROL DE LA PRODUCCIÓN.pdf]]
+![[PLANIFICACIÓN, PROGRAMACIÓN Y CONTROL DE LA PRODUCCIÓN.pdf]]
 
 Los tres artículos abordan la evolución y desafíos de la planificación y control de la producción desde distintas perspectivas: Mula, Poler, García-Sabater y Lario (2006) revisan los modelos de planificación bajo incertidumbre, mostrando que los enfoques tradicionales son insuficientes y que se requieren herramientas más robustas, como programación estocástica, difusa o simulación, para manejar variabilidad en demanda, capacidad y tiempos; en otro trabajo, Mula, Poler y García (2006) comparan sistemas como MRP, JIT, HPP y OPT, destacando que ninguno es universalmente superior y que la clave está en integrarlos para aprovechar sus fortalezas y reducir sus limitaciones, sobre todo frente a entornos inciertos; finalmente, Rodríguez (2010) analiza cómo los sistemas de planificación, programación y control deben adaptarse a mercados más dinámicos, con exigencias de flexibilidad, integración tecnológica, coordinación logística y descentralización de decisiones, señalando la importancia de sistemas informáticos y de gestión que permitan responder con rapidez y eficiencia a los cambios.
 
@@ -75,13 +77,13 @@ Los tres artículos abordan la evolución y desafíos de la planificación y con
 
 **Planificación de la Producción**
 
-[[PRODUCTION PLANNING.png]]
+![[PRODUCTION PLANNING.png]]
 Como se puede observar en el gráfico, el tema de planificación de la producción comenzó a publicarse desde 1920, su pico más alto fue entre los años 1950 y 1960, debido a la introducción de MRP en la década de 1950. 
 
 Con el paso del tiempo se observan fluctuaciones. Actualmente el tema no tiene altas publicaciones, pero sigue presente. Esto puede deberse al alto enfoque de nuevos temas como la Industria 4.0, Smart Manufacturing y Cadenas de Suministro.
 
 **Física de Planta**
-[[FACTORY PHYSICS.png]]
+![[FACTORY PHYSICS.png]]
 
 También se investigó sobre física de planta y la evolución de este tema a lo largo del tiempo. A diferencia de planificación de la producción, se puede observar que Física de Planta tuvo altas publicaciones en 2012, esto puede deberse a que se trató este tema como un nuevo enfoque para explicar los fundamentos de la producción. El descenso desde 2015 puede deberse también a los nuevos temas de Industria 4.0.
 
